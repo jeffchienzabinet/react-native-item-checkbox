@@ -10,11 +10,9 @@
     "url": "https://github.com/mhollweck/react-native-item-checkbox"
   },
   "bugs": "https://github.com/mhollweck/react-native-item-checkbox/issues",
-  "dependencies": {
-    "react-native-icons": "^0.6.0"
-  },
   "peerDependencies": {
-    "react-native": "^0.x"
+    "react-native": "^0.x",
+    "react-native-icons": "^0.7.0"
   },
   "directories": {},
   "keywords": [
